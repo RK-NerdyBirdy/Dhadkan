@@ -1,7 +1,13 @@
-# Dhadkan <3: An ECG Monitoring System with Real-time Analysis for Tele-medecine facilites
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d3c10ef9-115a-4d6a-b5dd-d5b6dbe07822" /># Dhadkan <3: An ECG Monitoring System with Real-time Analysis for Tele-medecine facilites
 
 ## Overview
 This project provides a real-time ECG monitoring system that connects to an ESP32-based ECG sensor via WebSocket. The system processes incoming ECG data, detects heartbeats, classifies heart rhythms, and provides visualization and reporting capabilities. It is an helping hand to doctors who are working day and night for patient service and helps them to easily read the ecg reports with abnormalities at specefic timestamps.
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFE4CGHBNg3Vg/feedshare-shrink_2048_1536/B4DZZH3BevGwAo-/0/1744962329233?e=1764806400&v=beta&t=HRaFMiqv7KdPb7PCohb2XCY7T4sFHdw8_sTxB9oAlzI" alt="ECG Image 1" width="280"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQGPYhJKjf03-w/feedshare-shrink_1280/B4DZZH3BepHwAk-/0/1744962329300?e=1764806400&v=beta&t=0JQtAx7rjiUO6b3YnYudxIUn9JOczVxKgJInpU1ApfU" alt="ECG Image 2" width="280"/>
+  <img src="images/img3.png" alt="ECG Image 3" width="280"/>
+</p>
 
 ## Key Features
 
